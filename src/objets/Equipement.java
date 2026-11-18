@@ -14,5 +14,3 @@ public enum Equipement {
         return nom;
     }
 }
-    
-
