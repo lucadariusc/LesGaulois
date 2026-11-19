@@ -97,7 +97,7 @@ public class Romain {
         parler(texte);
         return forceCoup;
     }
-
+    
     private Equipement[] ejecterEquipement() {
         Equipement[] equipementEjecte = new Equipement[nbEquipement];
         System.out.println("L'équipement de " + nom + " s'envole sous la force du coup.");
